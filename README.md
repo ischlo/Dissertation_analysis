@@ -21,7 +21,9 @@ available GPS traces.
 # Amenities
 
 Working on amenities consisted in several step included in the scripts
-in the folder **amenities\_scripts** :
+in the folder
+[**amenities\_scripts**](https://github.com/ischlo/Dissertation_analysis/tree/main/amenities_scripts)
+:
 
   - Downloading from OSM
   - Cleaning
@@ -34,7 +36,9 @@ in the folder **amenities\_scripts** :
 # Mobility
 
 Mobility data was provided so did not require downloading, the scripts
-in the folder **GPS scripts** do the following:
+in the folder [**GPS
+scripts**](https://github.com/ischlo/Dissertation_analysis/tree/main/GPS%20scripts)
+do the following:
 
   - Querying data from a local postgreSQL data base
   - Cleaning
@@ -47,4 +51,6 @@ in the folder **GPS scripts** do the following:
 # Functions
 
 Local functions are grouped into a single script for simplicity, it is
-contained in the **RC scripts** folder `functions.R`.
+contained in the [**RC
+scripts**](https://github.com/ischlo/Dissertation_analysis/tree/main/RC%20scripts)
+folder `functions.R`.
